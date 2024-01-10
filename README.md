@@ -7,4 +7,22 @@ In this repository I have tried to implement a segmentation model with Unet of m
 ## I have created a slide on this project. Please view the slide to know more.
 [Slide Link](https://docs.google.com/presentation/d/1xe10kFKCvv7x1hZEjlrAgQQvUxf1pVj4xnaASz22-7U/edit?usp=sharing)
 
+## Original Image
+![image_1](https://github.com/rasul-ai/Bone-Segmentation-with-Unet/blob/main/images/person10.jpg)
+![image_2](https://github.com/rasul-ai/Bone-Segmentation-with-Unet/blob/main/images/person13.jpg)
+
+## Annotation samples
+![Labelme_Interface](https://github.com/rasul-ai/Bone-Segmentation-with-Unet/blob/main/images/Screenshot%20from%202024-01-10%2022-22-44.png)
+![Annotation_s1](https://github.com/rasul-ai/Bone-Segmentation-with-Unet/blob/main/images/Screenshot%20from%202024-01-10%2022-22-54.png)
+![Annotation_s2](https://github.com/rasul-ai/Bone-Segmentation-with-Unet/blob/main/images/Screenshot%20from%202024-01-10%2022-23-03.png)
+
+## Evaluation with validation and test set
+![Val_1](https://github.com/rasul-ai/Bone-Segmentation-with-Unet/blob/main/images/Screenshot%20from%202024-01-10%2022-23-24.png)
+![Test_1](https://github.com/rasul-ai/Bone-Segmentation-with-Unet/blob/main/images/Screenshot%20from%202024-01-10%2022-23-31.png)
+![Test_2](https://github.com/rasul-ai/Bone-Segmentation-with-Unet/blob/main/images/Screenshot%20from%202024-01-10%2022-23-35.png)
+
+## Evaluation with benchmark dataset
+![Benchmark_1](https://github.com/rasul-ai/Bone-Segmentation-with-Unet/blob/main/images/Screenshot%20from%202024-01-10%2022-23-43.png)
+![Benchmark_2](https://github.com/rasul-ai/Bone-Segmentation-with-Unet/blob/main/images/Screenshot%20from%202024-01-10%2022-23-49.png)
+
 ### I will upload the original preprocessed dataset soon.
