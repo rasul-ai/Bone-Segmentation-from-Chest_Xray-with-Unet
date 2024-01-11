@@ -1,6 +1,6 @@
 # Bone-Segmentation-with-Unet
 **Author:** [Md Rasul Islam Bapary]  
-**Date:** [27.12.2023]
+**Date:** [10.01.2024]
 
 In this repository I have tried to implement a segmentation model with Unet of my own. I have inspired to implement this from a paper ***MDU-Net: A Convolutional Network for Clavicle and Rib Segmentation from a Chest Radiograph*** [Link](https://www.hindawi.com/journals/jhe/2020/2785464/). My code architecture is different from the architecture of the original paper. Basically, I have done this work to increase my skill in the field of deep learning.
 
